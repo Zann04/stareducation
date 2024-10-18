@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830384608051",
+    "project_id": "stareducation-bb821",
+    "storage_bucket": "stareducation-bb821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830384608051:android:2fa2d7222045fc1b8a2446",
+        "android_client_info": {
+          "package_name": "com.example.star"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdtK6v-hLOWVcG-PtPozvDWuuBHTTXaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
