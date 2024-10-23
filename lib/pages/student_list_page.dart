@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:stareducation/logout_bottom.dart';
 import 'package:stareducation/obj/object_methods/student_object_methods.dart';
 import 'package:stareducation/obj/student_object.dart';
-import 'package:stareducation/student_edit_page.dart';
+import 'package:stareducation/pages/student_edit_page.dart';
 class StudentListPage extends StatefulWidget {
   const StudentListPage({super.key});
 

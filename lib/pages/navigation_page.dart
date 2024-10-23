@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:stareducation/home_page.dart';
-import 'package:stareducation/student_list_page.dart';
-import 'package:stareducation/student_register_page.dart';
+import 'package:stareducation/pages/home_page.dart';
+import 'package:stareducation/pages/student_list_page.dart';
+import 'package:stareducation/pages/student_register_page.dart';
 
 class NavigationPage extends StatefulWidget {
   const NavigationPage({super.key});
