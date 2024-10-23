@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCtdtK6v-hLOWVcG-PtPozvDWuuBHTTXaU',
-    appId: '1:830384608051:android:2fa2d7222045fc1b8a2446',
+    appId: '1:830384608051:android:c7293d15c7c487368a2446',
     messagingSenderId: '830384608051',
     projectId: 'stareducation-bb821',
     storageBucket: 'stareducation-bb821.appspot.com',
@@ -83,7 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'stareducation-bb821.firebaseapp.com',
     storageBucket: 'stareducation-bb821.appspot.com',
   );
+
 }
-
-
-
